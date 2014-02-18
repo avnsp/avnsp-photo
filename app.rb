@@ -1,6 +1,6 @@
 require 'bundler/setup'
 
-require 'thumper'
+require './thumper'
 require 'zlib'
 require 'base64'
 require 'mini_magick'

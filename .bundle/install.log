@@ -1,0 +1,21 @@
+# Logfile created on 2014-02-18 19:34:03 +0100 by logger.rb/44203
+I, [2014-02-18T19:34:03.167771 #51618]  INFO -- : 0:  amq-protocol (1.9.0) from /Users/magnus/.gem/ruby/2.1.0/specifications/amq-protocol-1.9.0.gemspec
+I, [2014-02-18T19:34:03.168261 #51618]  INFO -- : 0:  json (1.8.1) from /Users/magnus/.rubies/2.1.0p0/lib/ruby/gems/2.1.0/specifications/default/json-1.8.1.gemspec
+I, [2014-02-18T19:34:03.168594 #51618]  INFO -- : 0:  mini_portile (0.5.2) from /Users/magnus/.gem/ruby/2.1.0/specifications/mini_portile-0.5.2.gemspec
+I, [2014-02-18T19:34:03.168877 #51618]  INFO -- : 0:  nokogiri (1.6.1) from /Users/magnus/.gem/ruby/2.1.0/specifications/nokogiri-1.6.1.gemspec
+I, [2014-02-18T19:34:03.169138 #51618]  INFO -- : 0:  uuidtools (2.1.4) from /Users/magnus/.gem/ruby/2.1.0/specifications/uuidtools-2.1.4.gemspec
+I, [2014-02-18T19:34:03.169408 #51618]  INFO -- : 0:  aws-sdk (1.30.0) from /Users/magnus/.gem/ruby/2.1.0/specifications/aws-sdk-1.30.0.gemspec
+I, [2014-02-18T19:34:04.776392 #51618]  INFO -- : 0:  bunny (1.0.6) from /Users/magnus/.gem/ruby/2.1.0/specifications/bunny-1.0.6.gemspec
+I, [2014-02-18T19:34:06.463377 #51618]  INFO -- : 0:  subexec (0.2.3) from /Users/magnus/.gem/ruby/2.1.0/specifications/subexec-0.2.3.gemspec
+I, [2014-02-18T19:34:07.606761 #51618]  INFO -- : 0:  mini_magick (3.7.0) from /Users/magnus/.gem/ruby/2.1.0/specifications/mini_magick-3.7.0.gemspec
+I, [2014-02-18T19:34:07.611074 #51618]  INFO -- : 0:  bundler (1.5.1) from /Users/magnus/.gem/ruby/2.1.0/specifications/bundler-1.5.1.gemspec
+I, [2014-02-18T19:34:23.600902 #51694]  INFO -- : 0:  amq-protocol (1.9.2) from /Users/magnus/.gem/ruby/2.1.0/specifications/amq-protocol-1.9.2.gemspec
+I, [2014-02-18T19:34:23.601259 #51694]  INFO -- : 0:  json (1.8.1) from /Users/magnus/.rubies/2.1.0p0/lib/ruby/gems/2.1.0/specifications/default/json-1.8.1.gemspec
+I, [2014-02-18T19:34:23.601541 #51694]  INFO -- : 0:  mini_portile (0.5.2) from /Users/magnus/.gem/ruby/2.1.0/specifications/mini_portile-0.5.2.gemspec
+I, [2014-02-18T19:34:23.601805 #51694]  INFO -- : 0:  nokogiri (1.6.1) from /Users/magnus/.gem/ruby/2.1.0/specifications/nokogiri-1.6.1.gemspec
+I, [2014-02-18T19:34:23.602062 #51694]  INFO -- : 0:  uuidtools (2.1.4) from /Users/magnus/.gem/ruby/2.1.0/specifications/uuidtools-2.1.4.gemspec
+I, [2014-02-18T19:34:26.079917 #51694]  INFO -- : 0:  aws-sdk (1.34.0) from /Users/magnus/.gem/ruby/2.1.0/specifications/aws-sdk-1.34.0.gemspec
+I, [2014-02-18T19:34:26.228320 #51694]  INFO -- : 0:  bunny (1.1.3) from /Users/magnus/.gem/ruby/2.1.0/specifications/bunny-1.1.3.gemspec
+I, [2014-02-18T19:34:26.228912 #51694]  INFO -- : 0:  subexec (0.2.3) from /Users/magnus/.gem/ruby/2.1.0/specifications/subexec-0.2.3.gemspec
+I, [2014-02-18T19:34:26.229364 #51694]  INFO -- : 0:  mini_magick (3.7.0) from /Users/magnus/.gem/ruby/2.1.0/specifications/mini_magick-3.7.0.gemspec
+I, [2014-02-18T19:34:26.229828 #51694]  INFO -- : 0:  bundler (1.5.1) from /Users/magnus/.gem/ruby/2.1.0/specifications/bundler-1.5.1.gemspec
